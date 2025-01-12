@@ -4,7 +4,7 @@
 
 - Exploring Vertex AI Studio
 - Sending prompts to Gemini using the Google Cloud console and the Gemini API
-- Using prompt comparison to evaluate responses from two Gemini versions
+- Using prompt comparison to evaluate responses from two Gemini versions (in Vertex AI Studio)
 
 ### Prompt gallery used:
 
